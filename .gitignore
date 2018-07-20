@@ -12,8 +12,6 @@
 *.synctex.gz
 
 # backup files
-*~
-*~[0-9]
 *.backup
 .*.swp
 *.zip
