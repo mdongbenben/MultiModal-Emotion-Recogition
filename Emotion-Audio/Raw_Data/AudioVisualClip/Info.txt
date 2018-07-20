@@ -1,0 +1,17 @@
+--------------------------------------
+Speakers
+--------------------------------------
+'DC', 'JE', 'JK' and 'KL' are four male speakers recorded for the SAVEE database
+
+
+--------------------------------------
+Audio-Visual Clip
+--------------------------------------
+Audio-visual clip files consist of AVI movie files
+
+There are 15 sentences for each of the 7 emotion categories.
+The initial letter(s) of the file name represents the emotion class, and the following
+ digits represent the sentence number.
+The letters 'a', 'd', 'f', 'h', 'n', 'sa' and 'su' represent 'anger', 'disgust', 'fear
+', 'happiness', 'neutral', 'sadness' and 'surprise' emotion classes respectively. 
+E.g., 'f2.avi' is the 2rd fear sentence. 
