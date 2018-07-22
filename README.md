@@ -34,7 +34,9 @@ Record for Code and Paper Searching
 
 ## face emotion related
 * https://github.com/JostineHo/mememoji
-* https://github.com/petercunha/Emotion a simple one
+* https://github.com/petercunha/Emotion （current used model）
+  * good face emotion recognition demo
+  * used model from https://github.com/oarriaga/face_classification
 * https://github.com/oarriaga/face_classification report.pdf
 * https://github.com/isseu/emotion-recognition-neural-networks report_NN.pdf
 * https://github.com/Microsoft/Cognitive-Samples-VideoFrameAnalysis microsoft demo using azure api
