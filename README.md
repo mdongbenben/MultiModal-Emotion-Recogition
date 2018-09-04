@@ -27,6 +27,7 @@ Record for Code and Paper Searching
 * https://github.com/nadzeri/Realtime-EEG-Based-Emotion-Recognition
 * https://github.com/Arka95/Human-Emotion-Analysis-using-EEG-from-DEAP-dataset
 * https://github.com/paulmorio/deap_analysis
+* https://github.com/nadzeri/Realtime-EEG-Based-Emotion-Recognition
 
 ## Audio related
 * https://github.com/vladimir-chernykh/emotion_recognition CTC method
